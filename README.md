@@ -17,10 +17,6 @@ Note: As you add new tools make sure to add it to this readme.
 
 ### Color Scheme
 
-```HTML
-    <button style="background='#0a66c1', color='#fff', padding='10px 20px'"></button>
-```
-
 - #000000 -- secondary color
 - #0a66c1 -- primary colorstyle
 - #fff -- tertiary/neutral color
